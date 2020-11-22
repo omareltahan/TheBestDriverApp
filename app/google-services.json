@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "88616747039",
+    "firebase_url": "https://thebest-99ba6.firebaseio.com",
+    "project_id": "thebest-99ba6",
+    "storage_bucket": "thebest-99ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88616747039:android:a9ce7b85e7d0e60a4a552a",
+        "android_client_info": {
+          "package_name": "com.driver.thebest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88616747039-ru1utpt8qmt0hdaakqmegvjvt7e55cul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driver.thebest",
+            "certificate_hash": "a4c49f6ec646d657fb4137258803a7a631b53e47"
+          }
+        },
+        {
+          "client_id": "88616747039-p9jum7t1npkchd5s5bmdg646aagfga0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9g7nF4agB1yQ_p3jykcwC05f-E5gNZq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88616747039-p9jum7t1npkchd5s5bmdg646aagfga0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88616747039-3j7kg1ikeqlnkoceuqle764bhnutl55n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thebest.TheBest-iOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88616747039:android:9545d2b07f14b9f14a552a",
+        "android_client_info": {
+          "package_name": "com.driver.thebestdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88616747039-6a1cno6919nluvrjam3evg4uhipdierl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driver.thebestdriver",
+            "certificate_hash": "a4c49f6ec646d657fb4137258803a7a631b53e47"
+          }
+        },
+        {
+          "client_id": "88616747039-p9jum7t1npkchd5s5bmdg646aagfga0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9g7nF4agB1yQ_p3jykcwC05f-E5gNZq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88616747039-p9jum7t1npkchd5s5bmdg646aagfga0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88616747039-3j7kg1ikeqlnkoceuqle764bhnutl55n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thebest.TheBest-iOS"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88616747039:android:3dc1631243ceb8554a552a",
+        "android_client_info": {
+          "package_name": "com.thebest.resturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88616747039-p9jum7t1npkchd5s5bmdg646aagfga0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9g7nF4agB1yQ_p3jykcwC05f-E5gNZq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88616747039-p9jum7t1npkchd5s5bmdg646aagfga0e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88616747039-3j7kg1ikeqlnkoceuqle764bhnutl55n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thebest.TheBest-iOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

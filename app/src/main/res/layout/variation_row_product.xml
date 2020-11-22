@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_margin="5sp"
+    android:gravity="center|start"
+    android:layout_height="35sp">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:id="@+id/selected"
+        android:src="@drawable/circle_close"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/text"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:hint="Name"
+        android:layout_weight="1"
+        android:layout_marginStart="7sp"
+        android:textColor="@color/blackcolor"
+        android:text="American food"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/price"
+        android:layout_weight="2"
+        android:textSize="14sp"
+        android:hint="price"
+        android:inputType="numberDecimal"
+        android:gravity="center"
+        android:layout_marginStart="7sp"
+        android:textColor="@color/gray_drawer"
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:visibility="gone"
+        android:layout_width="30sp"
+        android:padding="3sp"
+        android:id="@+id/delete"
+        android:src="@drawable/delete"
+        android:layout_height="30sp"/>
+
+</LinearLayout>

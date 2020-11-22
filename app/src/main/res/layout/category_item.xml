@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:cardCornerRadius="10sp"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="5sp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:gravity="start|center"
+        android:orientation="horizontal"
+        android:id="@+id/container"
+        android:padding="5sp"
+        android:layout_height="match_parent">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="50sp"
+            android:src="@drawable/test_resturants"
+            app:civ_border_width="1sp"
+            android:id="@+id/image"
+            app:civ_border_color="@color/gray_chat"
+            android:layout_height="50sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:textAlignment="viewStart"
+            android:maxLines="2"
+            android:id="@+id/text"
+            android:textColor="@color/blackcolor"
+            android:text="بيج"
+            android:layout_marginStart="10sp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:layout_width="35sp"
+            android:src="@drawable/edit"
+            android:padding="5sp"
+            android:id="@+id/edit"
+            android:tint="@color/colorPrimary"
+            android:layout_height="35sp"/>
+        <ImageView
+            android:layout_width="35sp"
+            android:src="@drawable/delete"
+            android:padding="5sp"
+            android:id="@+id/delete"
+            android:layout_height="35sp"/>
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

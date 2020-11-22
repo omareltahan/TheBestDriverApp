@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F87A26</color>
+    <color name="colorPrimaryDark">#F87A26</color>
+    <color name="colorAccent">#000099</color>
+
+
+    <color name="whitecolor">#ffffff</color>
+    <color name="blackcolor">#000000</color>
+    <color name="gray_chat">#D9D9D9</color>
+    <color name="boldgray_chat">#959090</color>
+    <color name="gray_drawer">#707070</color>
+    <color name="bg_color">#F7F7F7</color>
+    <color name="bg_colorgray">#F1F1F1</color>
+    <color name="blue">#0019FF</color>
+    <color name="ggred">#D10000</color>
+    <color name="ggreen">#0fba15</color>
+
+
+    <color name="resturantcolor">#DB2929</color>
+    <color name="taxicolor">#F2C821</color>
+    <color name="needscolor">#57B774</color>
+    <color name="marketscolor">#F87A26</color>
+    <color name="carrentcolor">#3DC0EE</color>
+    <color name="monthlycolor">#852182</color>
+    <color name="asascolor">#D11592</color>
+    <color name="roadscolor">#15D1B1</color>
+    <color name="shabrascolor">#000099</color>
+</resources>
